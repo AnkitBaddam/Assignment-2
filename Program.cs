@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Collections;
 
-namespace Kattis_Assignment_3
+namespace Kattis_Assignment_2
 {
     class Program
     {
